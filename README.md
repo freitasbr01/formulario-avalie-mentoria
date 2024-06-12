@@ -1,7 +1,7 @@
 <h2 align="center">Formulário Avalie Mentoria</h2>
 
 <h1 align="center">
-    <img width="600px" alt="FormularioAvalieMentoria" title="#FormularioAvalieMentoria" src="https://github.com/freitasbr01/rocketnotes-front/blob/main/src/assets/rocketnotes2.png" />
+    <img width="600px" alt="FormularioAvalieMentoria" title="#FormularioAvalieMentoria" src="https://github.com/freitasbr01/formulario-avalie-mentoria/blob/main/img/formulario-avalie.png" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 Nesse projeto foi desenvolvido um formulário de mentoria que coleta informações pessoais do usuário e do mentor escolhido de uma lista pré-definida. O formulário inclui um campo para feedback direto sobre o mentor. Além disso, o formulário possui uma seção dedicada para agendar a próxima sessão de mentoria.
 
-Link de acesso - <a href="">Formulário Avalie Mentoria</a>
+Link de acesso - <a href="https://formulario-avalie-mentoria.netlify.app/">Formulário Avalie Mentoria</a>
 
 Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 
